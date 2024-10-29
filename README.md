@@ -1,7 +1,7 @@
 Oh, hey. you found me.
 I'm Icysarcasm ( Logan Young )
 You can contact me here -> ( Loganyoung144@yahoo.com ) 
-  or here for non serious topics -> ( Symicedevteam@gmail.com ) 
+
 I write in Javascript and CSS ( How unique, i know. )
 
 I make games in GDevelop 5 ( Awesome tool for beginners and veterans alike )
